@@ -1,0 +1,15 @@
+Package: rwlib
+Type: Package
+Title: These is a package with the functions that I use the most.
+Version: 0.99
+Author: Rene Welch
+Maintainer: Rene Welch <welch@stat.wisc.edu>
+Authors@R: c(person(given = "Rene", family = "Welch", role = c("aut", "cre"), 
+     email = "[welch@stat.wisc.edu]"))
+Description: Todo es la misma funcion.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2
+Depends: ggplot2
+RoxygenNote: 6.0.1
