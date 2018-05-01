@@ -19,7 +19,10 @@ loads the file into an environment and then return the environment.
 
 \dontrun{
 
-load2env(file)
+data(iris)
+my_file = tempfile(fileext = ".RData")
+save(iris, file = my_file)
+load2env(my_file)
 
 }
 }

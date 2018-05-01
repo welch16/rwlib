@@ -9,7 +9,10 @@
 ##'
 ##' \dontrun{
 ##'
-##' load2env(file)
+##' data(iris)
+##' my_file = tempfile(fileext = ".RData")
+##' save(iris, file = my_file)
+##' load2env(my_file)
 ##'
 ##' }
 ##' @export
