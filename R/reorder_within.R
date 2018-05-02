@@ -1,3 +1,6 @@
+##' @import tidyr
+NULL
+
 #' Reorder an x or y axis within facets
 #'
 #' Reorder a column before plotting with faceting, such that the values are ordered
