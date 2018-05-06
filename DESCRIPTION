@@ -15,4 +15,5 @@ Depends: ggplot2,
 RoxygenNote: 6.0.1
 Imports: tidyr,
     stringr,
-    purrr
+    purrr,
+    grid
