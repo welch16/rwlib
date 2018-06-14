@@ -16,4 +16,5 @@ RoxygenNote: 6.0.1
 Imports: tidyr,
     stringr,
     purrr,
-    grid
+    grid,
+    scales

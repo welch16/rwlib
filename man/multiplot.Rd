@@ -4,7 +4,7 @@
 \alias{multiplot}
 \title{Multiple plot function}
 \usage{
-multiplot(..., plotlist = NULL, file, cols = 1, layout = NULL)
+multiplot(..., plotlist = NULL, cols = 1, layout = NULL)
 }
 \description{
 ggplot objects can be passed in ..., or to plotlist (as a list of ggplot objects)
