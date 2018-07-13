@@ -4,7 +4,7 @@
 ##'
 ##' @param x Vector to remove names
 ##'
-##' @example
+##' @examples
 ##' x = c("a" = 1,"b" = 3)
 ##' remove_names(x)
 ##'
