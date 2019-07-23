@@ -20,4 +20,6 @@ Imports:
     grid,
     scales,
     gridExtra,
-    Vennerable
+    Vennerable,
+    RANN,
+    magrittr
