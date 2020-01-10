@@ -12,7 +12,7 @@ Encoding: UTF-8
 LazyData: true
 Depends: ggplot2,
     tidyverse
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 Imports: 
     tidyr,
     stringr,
@@ -22,4 +22,5 @@ Imports:
     gridExtra,
     Vennerable,
     RANN,
-    magrittr
+    magrittr,
+    cowplot
