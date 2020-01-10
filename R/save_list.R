@@ -15,6 +15,6 @@ save_list <- function(filenames, plots, ...)
   purrr::map2(
     filenames,
     plots,
-    save_plot, ...)
+    cowplot::save_plot, ...)
 
 }
